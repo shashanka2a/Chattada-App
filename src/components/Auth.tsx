@@ -1,4 +1,4 @@
-\"use client\";
+"use client";
 
 import { useState } from "react";
 import { motion } from "motion/react";
@@ -202,7 +202,7 @@ export function Auth({ onAuthComplete }: AuthProps) {
                     <div>
                       <label className="block text-[#1A1A1A] mb-2">Full Name</label>
                       <div className="relative">
-                        <User className="absolute left-4 top-1/2 -translate-y-1/2 text-[#6B6B6B]" size={20} />
+                        <UserIcon className="absolute left-4 top-1/2 -translate-y-1/2 text-[#6B6B6B]" size={20} />
                         <input
                           type="text"
                           value={formData.name}

@@ -1,4 +1,4 @@
-\"use client\";
+"use client";
 
 import { GitBranch, Bell } from "lucide-react";
 
