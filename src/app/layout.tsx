@@ -14,6 +14,13 @@ export const metadata: Metadata = {
   description:
     "Chattada is a private matrimony experience where lineage meets love. Verified profiles, heritage insights, and family-first matchmaking.",
   metadataBase: new URL("https://example.com"),
+  icons: {
+    icon: [
+      { url: "/favicon.svg", type: "image/svg+xml" },
+      { url: "/favicon.ico", sizes: "any" },
+    ],
+    apple: "/favicon.svg",
+  },
   openGraph: {
     title: "Chattada – Lineage Meets Love",
     description:

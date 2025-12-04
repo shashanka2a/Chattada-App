@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none">
+  <!-- Main heart representing love -->
+  <path d="M100 170C100 170 60 130 60 90C60 70 75 55 95 55C105 55 100 60 100 70C100 60 95 55 105 55C125 55 140 70 140 90C140 130 100 170 100 170Z" fill="#D4AF37" stroke="#1A1A1A" stroke-width="3"/>
+  <!-- Lineage branch element -->
+  <path d="M100 150L80 170L100 190L120 170Z" fill="#1A1A1A" opacity="0.7"/>
+  <!-- Decorative dots representing heritage -->
+  <circle cx="70" cy="100" r="3" fill="#D4AF37" opacity="0.6"/>
+  <circle cx="130" cy="100" r="3" fill="#D4AF37" opacity="0.6"/>
+</svg>
+

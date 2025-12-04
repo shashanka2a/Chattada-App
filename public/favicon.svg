@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Heart icon representing love -->
+  <path d="M32 54C32 54 18 42 18 30C18 24 22 20 28 20C30 20 32 21 32 23C32 21 34 20 36 20C42 20 46 24 46 30C46 42 32 54 32 54Z" fill="#D4AF37" stroke="#1A1A1A" stroke-width="1.5"/>
+  <!-- Small branch/lineage element at bottom -->
+  <path d="M32 50L28 54L32 58L36 54Z" fill="#1A1A1A" opacity="0.6"/>
+</svg>
+
